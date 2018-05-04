@@ -22,3 +22,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 项目地址：http://www.shopmall.ltd/blog
+
+
+项目截图：![image](https://github.com/liuxuefei-27/myblog/blob/master/myblog-img/myblog.png?raw=true)
